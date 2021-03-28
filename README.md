@@ -3,6 +3,7 @@ A very simple blockchain created using Javascript.
 
 This shows what is behind a blockchain by using simple code. It's not a complete implementation, but enough to understand how blockchains work and how they guarantee that blocks can never be changed.
 
+
 ## Getting Started
 
 ### Prerequisites
@@ -17,11 +18,15 @@ Go into the code root and install all the packages.
 $ npm install
 ```
 
+
+
 Traditionnal blockchain implemented concepts :
 
 - block chain (data is a list of blocks),
 - block validity,
 - proof of work (proof of stake can also be implementation as well as other algorithms,
+
+
 
 After creating the blockchain try and tamper with it by changing the property of one of the blocks (i.e. amount) and even attempting to recalculate that block's new hash after tampering.
 
