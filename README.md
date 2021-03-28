@@ -19,7 +19,7 @@ Since this is written in Javascript, blockchain nodes can either run on NodeJS o
 
 ### Prerequisites
 
-You need node.js and npm package manager to be installed. I developed this code using node v12.10.0, but should work with previous versions.
+You need node.js and npm package manager to be installed. I developed this code using node v15.8.0, but should work with previous versions.
 
 ### Installation
 
