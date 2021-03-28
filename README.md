@@ -27,6 +27,7 @@ Go into the code root and install all the packages.
 
 ```sh
 $ npm install
+```
 
 Traditionnal blockchain implemented concepts :
 
