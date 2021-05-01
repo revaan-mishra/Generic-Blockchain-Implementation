@@ -1,7 +1,7 @@
 # Generic-Blockchain-Implementation
 A very simple blockchain created using Javascript.
 
-All the current implementations of blockchains are tightly coupled with the larger context and problems they (e.g. Bitcoin or Ethereum) are trying to solve. This makes understanding blockchains a necessarily harder task, than it must be. Especially source-code-wisely. This project is an attempt to provide as concise and simple implementation of a blockchain as possible.
+All the current implementations of blockchains are tightly coupled with the larger context and problems they (e.g. Bitcoin or Ethereum) are trying to solve. This makes understanding blockchains a necessarily harder task, than it must be. Especially source-code-wise. This project is an attempt to provide as concise and simple implementation of a blockchain as possible.
 
 
 ## Getting Started
