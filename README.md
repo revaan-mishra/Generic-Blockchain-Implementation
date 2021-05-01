@@ -1,7 +1,7 @@
 # Generic-Blockchain-Implementation
 A very simple blockchain created using Javascript.
 
-This shows what is behind a blockchain by using simple code. It's not a complete implementation, but enough to understand how blockchains work and how they guarantee that blocks can never be changed.
+All the current implementations of blockchains are tightly coupled with the larger context and problems they (e.g. Bitcoin or Ethereum) are trying to solve. This makes understanding blockchains a necessarily harder task, than it must be. Especially source-code-wisely. This project is an attempt to provide as concise and simple implementation of a blockchain as possible.
 
 
 ## Getting Started
